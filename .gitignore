@@ -1,0 +1,28 @@
+# C++
+*.o
+*.exe
+*.out
+*.class
+*.dll
+*.so
+*.dSYM
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Lua
+*.luac
+
+# JavaScript
+node_modules/
+*.log
+
+# HTML
+# No standard ignores
+
+# Rust
+target/
+# Cargo.lock
